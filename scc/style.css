@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.ad1 {
+text-align: center;
+
+}
+.ad2{ 
+    border: 1px solid black;
+    width: 600px;
+    height: 450px;
+    margin: auto;
+    position: relative;
+    background-color: yellow;
+    border-radius: 8px;           
+}
+.ad3 {
+    background-color: black;
+    color: yellow;
+    border-radius: 5px;
+    width: 20%;
+    padding: 6px;
+}
+.ad3:hover{
+color: white;
+ }
+ .ad4{
+    margin-bottom: 20px;
+     width: 40%; 
+     padding: 6px
+     ; border-radius: 5px;}
+.ad5{
+    margin-bottom: 20px;
+     width: 40%;
+      padding: 6px;
+       border-radius: 5px}
+       .ad6{
+        margin-bottom:
+         20px; width: 40%;
+          padding: 6px; 
+        border-radius: 5px}
+        .ad7{
+            margin-bottom: 20px;
+            width: 40%; 
+            padding: 6px;
+             border-radius: 5px }
+             .ad8{
+                width: 30%; position: absolute; top: 30px; left: -25px
+             }
+      .ad9{
+        width: 30%; position: absolute; top: 120px; right: 0px
+      }
+ 
